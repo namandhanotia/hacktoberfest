@@ -1,3 +1,8 @@
+#### Name: Naman Dhanotia(https://github.com/namandhanotia)
+- Place: Jaipur, Rajasthan, India
+- Bio: Student
+- GitHub: [namandhanotia](https://github.com/namandhanotia)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
